@@ -35,8 +35,8 @@ This project is a basic CRUD (Create, Read, Update, Delete) API built using Djan
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/django-crud-api.git
-   cd django-crud-api
+   git clone (https://github.com/xpowder/CRUD-API.git)
+   cd crud-api
    ```
 
 2. **Create and Activate a Virtual Environment**
